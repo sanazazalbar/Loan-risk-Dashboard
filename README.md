@@ -27,7 +27,7 @@ This project analyzes loan application data using Power BI to understand approva
 - Dashboard screenshots
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ## 💡 Business Use Case
 Banks and financial institutions can:
